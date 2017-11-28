@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>We need your locationn to obtain your current weather conditions</string>
 	<key>NSLocationUsageDescription</key>
 	<string>We need your locationn to obtain your current weather conditions</string>
 	<key>NSAppTransportSecurity</key>
